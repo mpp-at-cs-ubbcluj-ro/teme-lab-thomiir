@@ -1,0 +1,556 @@
+7038753156TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"} 
+7038753166TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7038753174TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7038753175TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7038753176TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+7038753177TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7038753178TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7038753187TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7038753190TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7038761677TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"} 
+7038761687TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7038761696TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7038761698TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7038761699TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+7038761699TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7038761700TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7038761706TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7038761709TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7038783269TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"} 
+7038783277TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7038783286TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7038783287TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7038783288TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+7038783289TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7038783289TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7038783297TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7038783300TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7038787716TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"} 
+7038787730TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7038787737TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7038787737TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7038787738TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+7038787738TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7038787738TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7038787745TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7038787749TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7038893676TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"} 
+7038893688TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7038893697TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7038893698TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7038893699TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+7038893700TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7038893701TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7038893712TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/"C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite"
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7038893716TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7038914434TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {} 
+7038914443TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7038914453TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7038914455TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7038914456TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+7038914457TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7038914458TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7038914460TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+java.sql.SQLException: The url cannot be null
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:665)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7038914464TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7038997270TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7038997281TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7038997294TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7038997297TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7038997297TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7038997299TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7038997299TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7038997307TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7038997312TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039003463TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7039003473TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039003483TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039003485TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039003487TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7039003488TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039003489TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039003495TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039003499TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039046859TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\students.sqlite} 
+7039046868TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039046875TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039046876TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039046876TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\students.sqlite
+7039046877TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039046878TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039046884TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\students.sqlite
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:/Users\baroa\OneDrive\Desktop\teme-lab-thomiir\students.sqlite
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039046887TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039082881TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {} 
+7039082889TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039082896TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039082898TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039082899TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+7039082899TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039082901TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039082903TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+java.sql.SQLException: The url cannot be null
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:665)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039082906TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039096040TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {} 
+7039096050TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039096062TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039096064TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039096065TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+7039096066TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039096069TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039096073TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+java.sql.SQLException: The url cannot be null
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:665)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039096077TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039275050TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {} 
+7039275060TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039275068TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039275069TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039275070TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+7039275071TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039275072TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039275074TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+java.sql.SQLException: The url cannot be null
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:665)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039275078TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039289597TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {} 
+7039289609TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039289616TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039289617TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039289618TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+7039289619TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039289620TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039289623TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+java.sql.SQLException: The url cannot be null
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:665)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039289626TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039414471TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {} 
+7039414483TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039414492TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039414497TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039414498TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+7039414499TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039414500TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039414504TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+java.sql.SQLException: The url cannot be null
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:665)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039414507TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039430735TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {} 
+7039430745TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039430752TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039430753TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039430754TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+7039430755TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039430755TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039430759TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+java.sql.SQLException: The url cannot be null
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:665)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039430761TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039456099TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite} 
+7039456108TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039456114TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039456115TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039456116TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite
+7039456116TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039456117TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039456122TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:707)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039456124TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039879062TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite} 
+7039879075TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039879084TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039879085TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039879085TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite
+7039879086TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039879087TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039879159TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite': The filename, directory name, or volume label syntax is incorrect
+java.sql.SQLException: opening db: 'C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite': The filename, directory name, or volume label syntax is incorrect
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:231)
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:61)
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28)
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:21)
+	at org.sqlite.JDBC.createConnection(JDBC.java:115)
+	at org.sqlite.JDBC.connect(JDBC.java:90)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:682)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039879166TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039895838TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite} 
+7039895848TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039895859TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039895860TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039895861TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite
+7039895862TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039895863TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039895937TTue ERROR util.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite': The filename, directory name, or volume label syntax is incorrect
+java.sql.SQLException: opening db: 'C:UsersbaroaOneDriveDesktop	eme-lab-thomiircars.sqlite': The filename, directory name, or volume label syntax is incorrect
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:231)
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:61)
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28)
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:21)
+	at org.sqlite.JDBC.createConnection(JDBC.java:115)
+	at org.sqlite.JDBC.connect(JDBC.java:90)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:682)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at util.JdbcUtils.getNewConnection(JdbcUtils.java:39)
+	at util.JdbcUtils.getConnection(JdbcUtils.java:51)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:77)
+	at repository.CarsDBRepository.add(CarsDBRepository.java:16)
+	at MainBD.main(MainBD.java:20)
+7039895941TTue TRACE util.JdbcUtils 57 getConnection - Exit
+7039931060TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7039931072TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039931083TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039931084TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039931085TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7039931086TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039931087TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039931577TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5038d0b5)
+7039931584TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7039931585TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7039931586TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039931586TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5038d0b5)
+7039931587TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Tesla Model S 2019])
+7039931588TTue TRACE repository.CarsDBRepository 29 findByManufacturer - Enter
+7039931590TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039931590TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@5038d0b5)
+7039931591TTue TRACE repository.CarsDBRepository 39 findByManufacturer - Exit with([Id=3 Tesla Model S 2019])
+7039995691TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7039995702TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7039995710TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039995711TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7039995712TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7039995713TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7039995714TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7039996145TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7039996154TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7039996156TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7039996157TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039996158TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7039996160TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019])
+7039996161TTue TRACE repository.CarsDBRepository 29 findByManufacturer - Enter
+7039996162TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039996162TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7039996163TTue TRACE repository.CarsDBRepository 39 findByManufacturer - Exit with([Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019])
+7039996164TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7039996164TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7039996164TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7039996165TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019])
+7040096772TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7040096781TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7040096789TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040096790TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7040096790TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7040096791TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7040096793TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7040097225TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040097231TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7040097232TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040097233TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040097233TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040097234TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019])
+7040097236TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7040097236TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040097237TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040097240TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7040097240TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040097241TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040097242TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040097242TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019])
+7040097243TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7040097243TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040097244TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040097244TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019])
+7040104383TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7040104393TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7040104405TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040104408TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7040104409TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7040104410TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7040104411TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7040104834TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040104842TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7040104843TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040104844TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040104844TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040104845TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019])
+7040104847TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7040104848TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040104848TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040104849TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7040104850TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040104850TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040104851TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040104851TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019])
+7040104852TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7040104853TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040104853TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040104855TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019])
+7040114735TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7040114744TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7040114751TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040114751TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7040114753TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7040114753TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7040114754TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7040115164TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a5b6f42)
+7040115171TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7040115172TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040115173TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040115174TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a5b6f42)
+7040115175TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019])
+7040115177TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7040115178TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040115178TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a5b6f42)
+7040115178TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7040115179TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040115179TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040115179TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a5b6f42)
+7040115180TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019])
+7040115181TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7040115182TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040115182TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1a5b6f42)
+7040115183TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019])
+7040143598TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7040143607TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7040143614TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040143615TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7040143616TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7040143617TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7040143618TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7040144030TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040144038TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7040144039TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040144040TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040144041TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040144042TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019])
+7040144044TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7040144044TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040144045TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040144045TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7040144046TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040144046TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040144046TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040144047TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019])
+7040144048TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7040144049TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040144050TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040144051TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019])
+7040205499TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7040205508TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7040205516TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040205517TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7040205518TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7040205520TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7040205520TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7040205927TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040205934TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7040205935TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040205936TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040205936TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040205937TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019])
+7040205939TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7040205940TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040205940TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040205941TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7040205941TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040205942TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040205943TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040205944TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019])
+7040205946TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7040205946TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040205947TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040205948TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019])
+7040231054TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7040231068TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7040231080TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040231081TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7040231081TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7040231082TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7040231083TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7040231530TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040231538TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7040231539TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040231540TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040231540TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040231541TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019])
+7040231543TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7040231544TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040231544TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040231548TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7040231548TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7040231548TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040231549TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040231550TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2020, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019])
+7040231551TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7040231552TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7040231552TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7040231553TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019])
+7041500712TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7041500726TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7041500732TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041500733TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7041500734TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7041500735TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7041500736TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7041501218TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041501225TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7041501227TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7041501227TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041501228TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041501229TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2020, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019, Id=11 Tesla Model S 2019])
+7041501231TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7041501231TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041501231TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041501232TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7041501233TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7041501233TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041501233TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041501234TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2020, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019, Id=11 Tesla Model S 2019])
+7041501236TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7041501237TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041501237TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041501238TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019, Id=11 Tesla Model S 2019])
+7041530141TTue INFO  repository.CarsDBRepository 23 <init> - Initializing repository.CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite} 
+7041530156TTue TRACE repository.CarsDBRepository 76 add - Enter saving task Id=0 Tesla Model S 2019
+7041530163TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041530164TTue TRACE util.JdbcUtils 25 getNewConnection - Enter
+7041530165TTue INFO  util.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\baroa\OneDrive\Desktop\teme-lab-thomiir\cars.sqlite
+7041530166TTue INFO  util.JdbcUtils 31 getNewConnection - user: null
+7041530167TTue INFO  util.JdbcUtils 32 getNewConnection - pass: null
+7041532253TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041532338TTue TRACE repository.CarsDBRepository 83 add - Saved 1 instances
+7041532339TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7041532341TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041532342TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041532344TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2020, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019, Id=11 Tesla Model S 2019, Id=12 Tesla Model S 2019])
+7041532348TTue TRACE repository.CarsDBRepository 92 update - Enter updating task Id=0 Tesla Model S 2020
+7041532349TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041532350TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041532351TTue TRACE repository.CarsDBRepository 100 update - Updated 1 instances
+7041532352TTue TRACE repository.CarsDBRepository 109 findAll - Enter
+7041532353TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041532353TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041532355TTue TRACE repository.CarsDBRepository 118 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Tesla Model S 2020, Id=3 Tesla Model S 2020, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019, Id=11 Tesla Model S 2019, Id=12 Tesla Model S 2019])
+7041532358TTue TRACE repository.CarsDBRepository 45 findBetweenYears - Enter
+7041532359TTue TRACE util.JdbcUtils 48 getConnection - Enter
+7041532360TTue TRACE util.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@32115b28)
+7041532362TTue TRACE repository.CarsDBRepository 56 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019, Id=7 Tesla Model S 2019, Id=8 Tesla Model S 2019, Id=9 Tesla Model S 2019, Id=10 Tesla Model S 2019, Id=11 Tesla Model S 2019, Id=12 Tesla Model S 2019])
